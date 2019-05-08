@@ -1,2 +1,0 @@
-# useSelectorOddity
-Created with CodeSandbox
